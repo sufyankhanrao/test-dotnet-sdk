@@ -59,7 +59,7 @@ The generated SDK also contain one or more Tests, which are contained in the Tes
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.2/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.3/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -89,18 +89,18 @@ The SDK can be configured to use a different environment for making API calls. A
 
 ## List of APIs
 
-* [Json Obj](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.2/doc/controllers/json-obj.md)
-* [Json Val](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.2/doc/controllers/json-val.md)
+* [Json Obj](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.3/doc/controllers/json-obj.md)
+* [Json Val](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.3/doc/controllers/json-val.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.2/doc/utility-classes.md)
-* [HttpRequest](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.2/doc/http-request.md)
-* [HttpResponse](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.2/doc/http-response.md)
-* [HttpStringResponse](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.2/doc/http-string-response.md)
-* [HttpContext](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.2/doc/http-context.md)
-* [HttpClientConfiguration](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.2/doc/http-client-configuration.md)
-* [HttpClientConfiguration Builder](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.2/doc/http-client-configuration-builder.md)
-* [IAuthManager](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.2/doc/i-auth-manager.md)
-* [ApiException](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.2/doc/api-exception.md)
+* [Utility Classes](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.3/doc/utility-classes.md)
+* [HttpRequest](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.3/doc/http-request.md)
+* [HttpResponse](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.3/doc/http-response.md)
+* [HttpStringResponse](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.3/doc/http-string-response.md)
+* [HttpContext](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.3/doc/http-context.md)
+* [HttpClientConfiguration](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.3/doc/http-client-configuration.md)
+* [HttpClientConfiguration Builder](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.3/doc/http-client-configuration-builder.md)
+* [IAuthManager](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.3/doc/i-auth-manager.md)
+* [ApiException](https://www.github.com/sufyankhanrao/test-dotnet-sdk/tree/1.1.3/doc/api-exception.md)
 
