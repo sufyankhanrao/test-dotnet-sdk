@@ -16,7 +16,7 @@ JsonValueTesterClient client = new JsonValueTesterClient.Builder()
     .Build();
 ```
 
-## JsonValueTesterClient Class
+## Json Value TesterClient Class
 
 The gateway for the SDK. This class acts as a factory for the Controllers and also holds the configuration of the SDK.
 
@@ -40,11 +40,11 @@ The gateway for the SDK. This class acts as a factory for the Controllers and al
 | Name | Description | Return Type |
 |  --- | --- | --- |
 | `GetBaseUri(Server alias = Server.Default)` | Gets the URL for a particular alias in the current environment and appends it with template parameters. | `string` |
-| `ToBuilder()` | Creates an object of the JsonValueTesterClient using the values provided for the builder. | `Builder` |
+| `ToBuilder()` | Creates an object of the Json Value TesterClient using the values provided for the builder. | `Builder` |
 
-## JsonValueTesterClient Builder Class
+## Json Value TesterClient Builder Class
 
-Class to build instances of JsonValueTesterClient.
+Class to build instances of Json Value TesterClient.
 
 ### Methods
 
